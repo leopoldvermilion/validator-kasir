@@ -1,0 +1,22 @@
+{
+  "name": "leopold-validator-kasir",
+  "version": "1.0.0",
+  "description": "For tea testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leopoldvermilion/validator-kasir.git"
+  },
+  "author": "leopoldve",
+  "dependencies": {
+    "kasir": "1.1.4"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leopoldvermilion/validator-kasir/issues"
+  },
+  "homepage": "https://github.com/leopoldvermilion/validator-kasir#readme"
+}
